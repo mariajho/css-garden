@@ -1,14 +1,3 @@
-* {
-	font-family: 'PT Serif', serif;
-}
-
-
-body {
-	margin: 0;
-}
-
-h1,h2,h3,h4,h5
-
-#zen-intro{
-	background-color: #9FBFBF;
+header h1{
+	background-color: #A4D3D3;
 }
