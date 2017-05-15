@@ -42,19 +42,22 @@ a {
 }  
 
 li {
-	color: amily: "Anton" sans-serif;
+	font-family: "Anton" sans-serif;
 	color:#666600;
 }
 
 li a{
 	background-color: #FFF8DC;
+	font-family: "Anton" sans-serif;
 }
 
 footer a{
 	background-color: #FFF8DC;
 	margin-left: 20px;
+	font-family: "Anton" sans-serif;
 }
 
 div a{
 	background-color: #FFF8DC;
+	font-family: "Anton" sans-serif;
 }
