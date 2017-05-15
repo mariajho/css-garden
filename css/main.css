@@ -1,7 +1,60 @@
+body {
+	margin: 0;
+}
+
+*{
+	font-family: "Baloo", cursive;	
+}
+
+h1,h2,h3{
+	text-align: center;
+	font-family: "Baloo", cursive;
+	font-weight: 300;
+	background-image: url(../img.png);
+	color: #F6EEED;
+
+}
+
 header h1{
-	background-color: #e6896b;
-	font-size: 50px;
+
+	background-image: url(../una.png);
+	font-size: 40px;
 	text-align: center;
 	padding: 20px;
 	margin: 0;
+}
+
+div{
+	background-image: url(../fon.png);
+	
+}
+
+div p{
+	font-family: "Anton" sans-serif;
+	color:#666600;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align : justify;
+}
+
+a {
+	color: #20B2AA;
+}  
+
+li {
+	color: amily: "Anton" sans-serif;
+	color:#666600;
+}
+
+li a{
+	background-color: #FFF8DC;
+}
+
+footer a{
+	background-color: #FFF8DC;
+	margin-left: 20px;
+}
+
+div a{
+	background-color: #FFF8DC;
 }
